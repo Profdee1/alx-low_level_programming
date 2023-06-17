@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Print alphbet except q and e
  * Description: 'alphabet soup'
  * return: always 0
  */
