@@ -2,7 +2,7 @@
 /**
  * main - Print alphbet except q and e
  * Description: 'alphabet soup'
- * return: always 0
+ * return: always 0 (Success)
  */
 int main(void)
 {
