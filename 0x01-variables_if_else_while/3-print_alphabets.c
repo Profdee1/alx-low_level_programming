@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main: Entry point
+ * main: alphABET
  * Description: 'Print alphabet in Lower & Upper cases'
  * Return: always 0
  */
