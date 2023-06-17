@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main: Numberz
+ * main - Numberz
  * Description: Print digits of base 10 char
  * Return: always 0
  */
