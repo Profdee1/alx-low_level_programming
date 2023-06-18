@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Hexadecimal
  * Description: 'numbers in base 16 in lowercase'
