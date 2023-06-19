@@ -22,10 +22,10 @@ int main(void)
 			putchar(y);
 			putchar(z);
 		if (x != 55 || y != 56)
-		}
 		{
 			putchar(',');
 			putchar(' ');
+		}
 		}
 	}
 	}
