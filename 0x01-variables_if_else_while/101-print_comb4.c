@@ -6,9 +6,7 @@
   */
 int main(void)
 {
-	int x;
-	int y;
-	int z;
+	int x, y, z;
 
 	for (x = 48; x >= 57; x++)
 	{
