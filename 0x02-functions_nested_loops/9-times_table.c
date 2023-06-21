@@ -6,7 +6,6 @@
   */
 void times_table(void)
 {
-	for (
 	_putchar(',');
 	_putchar(' ');
 	_putchar('\n');
