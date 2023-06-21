@@ -2,7 +2,7 @@
 /**
   *times_table - Times Table
   *9 times table
-  *Return: Multiples of numbers
+  *Return: empty output
   */
 void times_table(void)
 {
