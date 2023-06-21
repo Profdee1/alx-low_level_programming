@@ -3,7 +3,7 @@
   *add - add integers
   *@a: First Inputted number
   *@b: Second inputted number
-  *Return: Sum of integers
+  *Return: Integer value
   */
 int add(int a1, int b2)
 {
